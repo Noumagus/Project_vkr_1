@@ -1,4 +1,4 @@
-# nous_magus
+# VKR_1
 
 The project I did during my first training in data analytics.
 
